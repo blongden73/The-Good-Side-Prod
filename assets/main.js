@@ -637,20 +637,20 @@ function closeWindow() {
 var hasSeenPopUp = false;
 
 function exitIntent() {
-  if(Cookies.get('exitIntext') != true){
     var popUp = document.querySelector(".exit-intent-cirlce");
     var exitClose = document.querySelector('.exit-close-button');
     document.documentElement.addEventListener('mouseleave', function(){
       if(hasSeenPopUp === false ){
         hasSeenPopUp = true
-        popUp.classList.add('exit')
-        Cookies.set('exitIntext', true, { expires: 1 })
+        if(!Cookies.get('exitIntext')){
+          popUp.classList.add('exit')
+          Cookies.set('exitIntext', true, { expires: 1 })
+        }
       }
     })
-  }
-  exitClose.addEventListener('click', function(){
-    popUp.classList.remove('exit')
-  })
+    exitClose.addEventListener('click', function(){
+      popUp.classList.remove('exit')
+    })
 }
 
 function specialCircles() {
