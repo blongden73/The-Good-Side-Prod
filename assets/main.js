@@ -12,6 +12,7 @@ function isMobile(){
 
 if(!isMobile()){
   var horizontalScroll = true;
+  var opened = false;
   var caseStudyCheck = document.querySelector('.gs-case-study_top');
   //when the page loads it needs to check the url to see if there is a horizontal scroll query in there
   if(!caseStudyCheck){
@@ -183,6 +184,37 @@ function randomCircles(){
   }
 }
 
+function specialrandomCircles(){
+  // collect all the divs
+  var specialdivs = document.querySelectorAll('.special-circle');
+  // get window width and height
+  var variablewidth;
+
+  if(isMobile()) {
+    variablewidth = 100;
+  } else {
+    variablewidth = 400;
+  }
+
+  var winWidth = window.innerWidth - variablewidth;
+  var winHeight = window.innerHeight - 200;
+  // i stands for "index". you could also call this banana or haircut. it's a variable
+  for ( var i=0; i < specialdivs.length; i++ ) {
+      // shortcut! the current div in the list
+      var specialthisDiv = specialdivs[i];
+      // get random numbers for each element
+      randomTop = getRandomNumber(0, winHeight);
+      randomLeft = getRandomNumber(0, winWidth);
+      // update top and left position
+      specialthisDiv.style.top = randomTop +"px";
+      specialthisDiv.style.left = randomLeft +"px";
+  }
+  // function that returns a random number between a min and max
+  function getRandomNumber(min, max) {
+    return Math.random() * (max - min) + min;
+  }
+}
+
 function hamburger() {
   var hamburger = document.querySelector('.tg-menu__hamburger');
   var menuWrapper = document.querySelector('.gs-hamburger-menu');
@@ -190,6 +222,16 @@ function hamburger() {
     this.classList.toggle('clicked');
     menuWrapper.classList.toggle('hidden');
   });
+}
+
+function menu() {
+  var menuItems = document.querySelectorAll('.gs-hamburger-menu ul li');
+  var menuWrapper = document.querySelector('.gs-hamburger-menu');
+  for(i=0;i<menuItems.length; i++) {
+    menuItems[i].addEventListener('click', function(){
+      menuWrapper.classList.toggle('hidden');
+    })
+  }
 }
 
 function circlesCliked(){
@@ -228,6 +270,8 @@ function circlesCliked(){
     }
   }
 }
+
+
 
 var screenWidth = screen.width / 5;
 var screenHeight = screen.height / 5 ;
@@ -472,6 +516,210 @@ function checkHash(){
   }
 }
 
+function carousel(){
+  var current = 0,
+    slides = document.querySelectorAll(".mani-slide");
+
+setInterval(function() {
+  for (var i = 0; i < slides.length; i++) {
+    slides[i].style.opacity = 0;
+  }
+  current = (current != slides.length - 1) ? current + 1 : 0;
+  slides[current].style.opacity = 1;
+}, 12000);
+}
+
+function hoverEnlarger() {
+  var hover = document.querySelectorAll('.hover-enlarge');
+  var info = document.querySelector('.studio-info-wrapper');
+  var pageWrapper = document.querySelector('.gs-home-page-slider');
+  for(i=0; i<hover.length; i++){
+    hover[i].addEventListener('click', function(){
+      for(j=0; j<hover.length; j++){
+        hover[j].classList.toggle('hide');
+      }
+      var selector = this.dataset.selector;
+      console.log('.studio-info-wrapper.'+selector);
+      document.querySelector('.studio-info-wrapper.'+selector).classList.toggle('visible');
+      if(this.classList.contains('enlarge')){
+        horizontalScroll = true;
+      }else {
+        horizontalScroll = false;
+      }
+      this.classList.toggle('enlarge');
+      pageWrapper.classList.toggle('no-scroll');
+    })
+  }
+}
+
+function caseStudyMore() {
+  console.log('read-more');
+  var caseStudyReadMore = document.querySelectorAll('.case-read-more');
+  var pageWrapper = document.querySelector('.gs-home-page-slider');
+  var info = document.querySelector('.case-study-info-wrapper');
+  for(i=0;i<caseStudyReadMore.length; i++){
+    caseStudyReadMore[i].addEventListener('click', function(){
+      if(!opened) {
+        opened = true;
+        horizontalScroll = false;
+        pageWrapper.classList.add('no-scroll');
+      }else {
+        opened = false;
+        horizontalScroll = true;
+        pageWrapper.classList.remove('no-scroll');
+      }
+      console.log('clicking');
+      var selector = this.dataset.selector;
+      document.querySelector('.case-study-info-wrapper.'+selector).classList.toggle('visible');
+    });
+  }
+}
+
+function logoChange() {
+  console.log('logo');
+  var mainVideo = document.querySelector('.gs-video');
+  var siteLogo = document.querySelector('.tg-header__logo');
+  document.addEventListener('wheel', function(){
+    console.log(mainVideo.getBoundingClientRect());
+
+    if(mainVideo.getBoundingClientRect().x <= -400) {
+      console.log('pause');
+      mainVideo.querySelector('video').pause();
+      siteLogo.classList.add('black');
+    }else {
+      console.log('play');
+      mainVideo.querySelector('video').play();
+      siteLogo.classList.remove('black');
+    }
+  });
+}
+
+function carouselVideos(){
+  var mainIframe = document.querySelector('.carousel-main');
+  var videoList = document.querySelectorAll('.video-item');
+  videoList[0].parentNode.classList.remove('deactive');
+  for(i=0; i<videoList.length; i++){
+    videoList[i].addEventListener('click', function(){
+      for(g=0; g<videoList.length; g++){
+        videoList[g].parentNode.classList.add('deactive');
+      }
+      this.parentNode.classList.remove('deactive');
+      var videoVim = this.dataset.vimeo;
+      mainIframe.src = videoVim;
+    });
+  }
+}
+
+function closeWindow() {
+  var closeButton = document.querySelectorAll('.close-window');
+  var pageWrapper = document.querySelector('.gs-home-page-slider');
+  for(i=0; i<closeButton.length; i++){
+    closeButton[i].addEventListener('click', function(){
+      var visible = document.querySelector('.visible');
+      var enlarge = document.querySelector('.enlarge');
+      if(enlarge) {
+        var enlargeList = document.querySelectorAll('.hover-enlarge');
+        for(j=0; j<enlargeList.length; j++) {
+          enlargeList[j].classList.remove('hide');
+        }
+        enlarge.classList.remove('enlarge');
+      }
+      if(visible) {
+        opened = false;
+        horizontalScroll = true;
+        pageWrapper.classList.remove('no-scroll');
+        visible.classList.remove('visible');
+      }
+    })
+  }
+}
+
+var hasSeenPopUp = false;
+
+function exitIntent() {
+  var popUp = document.querySelector(".exit-intent-cirlce");
+  var exitClose = document.querySelector('.exit-close-button');
+  document.documentElement.addEventListener('mouseleave', function(){
+    if(hasSeenPopUp === false ){
+      hasSeenPopUp = true
+      popUp.classList.add('exit')
+    }
+  })
+  exitClose.addEventListener('click', function(){
+    popUp.classList.remove('exit')
+  })
+}
+
+function specialCircles() {
+  var specialscreenWidth = screen.width / 4;
+  var specialscreenHeight = screen.height / 3.5 ;
+  var specialballsanimation = anime({
+    targets: '.random-circle',
+    keyframes: [
+      {translateY: function() { return anime.random(0, specialscreenHeight);} },
+      {translateX: function() { return anime.random(0, specialscreenWidth);}},
+      {translateY: function() { return anime.random(0, specialscreenHeight);}},
+      {translateX: function() { return anime.random(0, specialscreenWidth);}},
+      {translateY: function() { return anime.random(0, specialscreenHeight);}}
+    ],
+    delay: anime.stagger(200),
+    direction: 'alternate',
+    easing: 'spring(1, 80, 10, 0)',
+    loop: true,
+    autoplay: false,
+    duration: anime.random(10000, 8000)
+  });
+
+  console.log(specialballsanimation);
+
+  function specialanimateCricles(){
+    console.log(specialscreenWidth, specialscreenHeight);
+    specialrandomCircles();
+  }specialanimateCricles();
+
+  function specialletsplayball(){
+    specialballsanimation.play();
+  }specialletsplayball();
+
+  function specialonscrollanimate() {
+    var isHome = document.querySelector('.gs-splash');
+    if(isHome && !isMobile()){
+      function scroll(){
+        console.log('runnin');
+          var homeslides = document.querySelectorAll('.gs-slide');
+          for(i=0; i<homeslides.length; i++) {
+            var left = homeslides[i].getBoundingClientRect().left;
+            if(left < (window.innerWidth / 2) && left > -(window.innerWidth / 2)) {
+              homeslides[i].classList.add('inview');
+              //at this point if the user stops scrolling snap to the the left of the screen
+              homeslides[i].scrollIntoView({behavior: "smooth"});
+
+              if(homeslides[i].classList.contains('special-circles-slide')){
+                window.requestAnimationFrame(specialletsplayball);
+              } else {
+                specialballsanimation.pause();
+              }
+            }else {
+              homeslides[i].classList.remove('inview');
+            }
+          }
+        }
+        var throttleScroll = _.throttle(scroll, 100);
+        document.addEventListener('wheel', throttleScroll);
+    } else if(isMobile()) {
+      var homeslides = document.querySelectorAll('.gs-slide');
+      for(i=0; i<homeslides.length; i++) {
+        homeslides[i].classList.add('inview');
+        if(homeslides[i].classList.contains('circles-slide')){
+          window.requestAnimationFrame(specialletsplayball);
+        } else {
+          specialballsanimation.pause();
+        }
+      }
+    }
+  }
+}
+
 function init(){
   hash();
   animateCricles();
@@ -492,4 +740,16 @@ function init(){
   taginUrl();
   caseStudyheight();
   checkHash();
+
+  if(document.querySelector('.mani-slide')){
+    carousel();
+    hoverEnlarger();
+    logoChange();
+    caseStudyMore();
+    closeWindow()
+    carouselVideos();
+    exitIntent();
+    specialCircles();
+    menu();
+  }
 }init();
