@@ -637,14 +637,17 @@ function closeWindow() {
 var hasSeenPopUp = false;
 
 function exitIntent() {
-  var popUp = document.querySelector(".exit-intent-cirlce");
-  var exitClose = document.querySelector('.exit-close-button');
-  document.documentElement.addEventListener('mouseleave', function(){
-    if(hasSeenPopUp === false ){
-      hasSeenPopUp = true
-      popUp.classList.add('exit')
-    }
-  })
+  if(Cookies.get('exitIntext') != true){
+    var popUp = document.querySelector(".exit-intent-cirlce");
+    var exitClose = document.querySelector('.exit-close-button');
+    document.documentElement.addEventListener('mouseleave', function(){
+      if(hasSeenPopUp === false ){
+        hasSeenPopUp = true
+        popUp.classList.add('exit')
+        Cookies.set('exitIntext', true, { expires: 1 })
+      }
+    })
+  }
   exitClose.addEventListener('click', function(){
     popUp.classList.remove('exit')
   })
