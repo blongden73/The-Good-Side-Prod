@@ -11,6 +11,9 @@ collections:
   navigation:
     title: Navigation
     output: false
+  new-projects:
+    title: New Projects
+    output: true
   posts:
     title: Posts
     output: true
