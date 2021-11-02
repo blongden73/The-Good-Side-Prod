@@ -634,8 +634,8 @@
     transition: all linear 0.5s;
     width: max-content;
     background-color: blue;
-    height: 70px;
-    width: 70px;
+    height: 40px;
+    width: 40px;
     border-radius: 50%;
     text-align: center;
     cursor: pointer;
@@ -647,6 +647,11 @@
     -webkit-backface-visibility: hidden;
     will-change: height, width, top, left, transform;
     display: inline-block;
+
+    @include mq($from: desktop) {
+      height: 70px;
+      width: 70px;
+    }
 
     &.clicked {
       transform: translate(-50%, -50%) translate3d(0,0,1px) !important;
