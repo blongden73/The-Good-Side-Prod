@@ -20,6 +20,9 @@ collections:
   questions:
     title: Questions
     output: true
+  studio:
+    title: Studio
+    output: true
   themes:
     title: Themes
     output: true
