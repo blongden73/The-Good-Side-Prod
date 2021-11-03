@@ -10,5 +10,6 @@ The Work Description: Through traveler diaries and discussion groups in UK, Germ
   the customer journey, and workshopped a range of initiatives to help evolve booking.com’s
   offer for LGBTQI+ customers.
 The insight Description: xxx
+Image: "/uploads/booking.jpg"
 ---
 
