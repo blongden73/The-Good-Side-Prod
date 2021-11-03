@@ -8,6 +8,9 @@ collections:
   home-carousel:
     title: Home Carousel
     output: true
+  manifesto:
+    title: Manifesto
+    output: true
   navigation:
     title: Navigation
     output: false
