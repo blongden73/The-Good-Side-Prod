@@ -13,5 +13,6 @@ The insight Description: Through a series of stakeholder sessions and workshops 
   on designing for caregiver’s needs - representing over $10m in investment, mainly
   for mothers. Our film has become a key training tool for ECD programme design workshops,
   and is used as a case study for the Dignified Storytelling Alliance.
+Image: "/uploads/kays_normal.jpg"
 ---
 
