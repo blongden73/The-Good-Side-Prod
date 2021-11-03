@@ -7,11 +7,12 @@ Question: How can we encourage the Early Child Education and Development communi
 The Work Description: |2-
       <iframe src="https://player.vimeo.com/video/364756937?h=b67ea64df4&title=0&byline=0&portrait=0" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-  A month-long ethnographic immersion and documentary film production, guided by a literature review and expert interviews and backed up with a quantitative survey. We workshopped insights and conclusions with The Kays Foundation, the Keynan government and NGO stakeholders to ensure outputs were owned and co-created with people who could act on them. An [interactive report ](https://www.dropbox.com/s/c85tadkhao8atxx/CoH%E2%80%93Kays_KENYA_FINAL_REPORT_june2020.pdf?dl=0)to accompany the documentary film helped bring all of the thinking together, and live on beyond the project.
-The insight Description: |-
-  Through a series of stakeholder sessions and workshops we secured commitments from key ECD donors to revise their funding strategies to focus on designing for caregiver’s needs - representing over $10m in investment, mainly for mothers. Our film has become a key training tool for ECD programme design workshops, and is used as a case study for the Dignified Storytelling Alliance.
-
-  ![Children Playing Instruments 2.jpg](/uploads/Children%20Playing%20Instruments%202.jpg)
+  A month-long ethnographic immersion and documentary film production, guided by a literature review and expert interviews and backed up with a quantitative survey. We workshopped insights and conclusions with The Kays Foundation, the Keynan government and NGO stakeholders to ensure outputs were owned and co-created with people who could act on them. An interactive report to accompany the documentary film helped bring all of the thinking together, and live on beyond the project.
+The insight Description: Through a series of stakeholder sessions and workshops we
+  secured commitments from key ECD donors to revise their funding strategies to focus
+  on designing for caregiver’s needs - representing over $10m in investment, mainly
+  for mothers. Our film has become a key training tool for ECD programme design workshops,
+  and is used as a case study for the Dignified Storytelling Alliance.
 Image: "/uploads/kays_normal.jpg"
 ---
 
