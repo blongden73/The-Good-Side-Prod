@@ -2,14 +2,14 @@
 title: Booking.com
 date: 2021-11-02 23:02:00 Z
 Intro: Improving travel experience for LGBTQI+ people with Booking.Com
-Question: What is the LGBTQI+ travel experience like, and how might we help LGBTQI+
-  travelers make travel plans in a safe and welcoming way?
-The Work Description: Through traveler diaries and discussion groups in UK, Germany,
-  and Netherlands, we built a deep understanding of LGBTQI+ traveler journeys, which
-  we then validated in a robust quant survey. We identified barriers and drivers throughout
-  the customer journey, and workshopped a range of initiatives to help evolve booking.com’s
-  offer for LGBTQI+ customers.
-The insight Description: xxx
+Question: How can we help LGBTQIA+ travellers in the UK, Germany and Netherlands feel
+  safe and confident exploring the world?
+The Work Description: Participatory qualitative research laid bare the realities of
+  LGBTQIA+ travel experiences, and brought travellers in to co-design booking.com's
+  internal and external change strategies.
+The insight Description: Our work reshaped Booking.com’s internal strategy and Travel
+  Proud partner community, and was featured as a keynote at the ESOMAR 2020 Client
+  Summit.
 Image: "/uploads/booking.jpg"
 ---
 
