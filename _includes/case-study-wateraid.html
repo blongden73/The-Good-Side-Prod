@@ -28,10 +28,13 @@
     <span class="close-window">Close</span>
     <h6>The Question</h6>
     <h2>{{ project.Question }}</h2>
+    {% if project.Video %}
+      {{project.Video}}
+    {% endif %}
     <h6>The Work</h6>
-    <p>{{ project.['The Work Description'] }}</p>
+    <p>{{ project.['The Work Description'] | markdownify }}</p>
     <h6>The Impact</h6>
-    <p>{{ project.['The insight Description'] }}</p>
+    <p>{{ project.['The insight Description'] | markdownify }}</p>
   </div>
 </div>
 {% endif %}
