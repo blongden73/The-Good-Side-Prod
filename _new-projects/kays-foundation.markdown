@@ -14,5 +14,8 @@ The insight Description: Through a series of stakeholder sessions and workshops 
   for mothers. Our film has become a key training tool for ECD programme design workshops,
   and is used as a case study for the Dignified Storytelling Alliance.
 Image: "/uploads/kays_normal.jpg"
+Video: <iframe src="https://player.vimeo.com/video/364756937?h=b67ea64df4&title=0&byline=0&portrait=0"
+  width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+  allowfullscreen></iframe>
 ---
 
