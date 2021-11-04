@@ -1191,7 +1191,7 @@ ul.gs-client-list {
     height: 47vw;
 
     @include mq($from: desktop){
-      width: 100%;
+      width: 75%;
       height: 28vw;
     }
   }
