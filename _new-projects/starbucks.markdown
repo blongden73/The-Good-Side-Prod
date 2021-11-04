@@ -14,6 +14,6 @@ The insight Description: Adopting decision science levers and user personas from
   ideas. Regional trial campaigns were launched in Manchester, Bristol and Leeds based
   on our behavioural insights.
 Image: "/uploads/Coffee%20counter%20web.jpg"
-Subtitle: X HUBUB
+Subtitle: X HUBBUB
 ---
 
