@@ -5,7 +5,7 @@ Intro: Inspiring ECD donors to prioritise mums, with The Kays Foundation
 Question: How can we encourage the Early Child Education and Development community
   to think about the caregiver as much as the child in investment and programme strategies?
 The Work Description: |-
-  A month-long ethnographic immersion and documentary film production, guided by a literature review and expert interviews and backed up with a quantitative survey. We workshopped insights and conclusions with The Kays Foundation, the Keynan government and NGO stakeholders to ensure outputs were owned and co-created with people who could act on them. An [interactive report](#) to accompany the documentary film helped bring all of the thinking together, and live on beyond the project.
+  A month-long ethnographic immersion and documentary film production, guided by a literature review and expert interviews and backed up with a quantitative survey. We workshopped insights and conclusions with The Kays Foundation, the Keynan government and NGO stakeholders to ensure outputs were owned and co-created with people who could act on them. An [interactive report](https://www.dropbox.com/s/c85tadkhao8atxx/CoH%E2%80%93Kays_KENYA_FINAL_REPORT_june2020.pdf?dl=0) to accompany the documentary film helped bring all of the thinking together, and live on beyond the project.
 
   ![Children Playing Instruments 2.jpg](/uploads/Children%20Playing%20Instruments%202.jpg)
 The insight Description: Through a series of stakeholder sessions and workshops we
