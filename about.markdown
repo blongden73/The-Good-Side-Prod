@@ -65,15 +65,20 @@ Team:
   Question: How do we keep participants engaged throughout the research process and
     ensure they have a positive experience?
   Gif image: 
-- Name: Catriona Hay
-  Role: Project director
-  Image: "/uploads/Trina_Headshots-6_websquare.jpg"
-  Question: How can we uncover what people actually do, vs. what they say they do?
-  Gif image: "/uploads/cat_low.gif"
+- Name: Sophie Solly
+  Role: Insight Director
+  Image: 
+  Question: 
+  Gif image: 
 - Name: Kymberly Loeb
   Role: Associate Director
   Image: "/uploads/IMG_20210304_165426-01-6e2f64.jpeg"
   Question: How can we work with people's cognitive biasis to impact social change?
+  Gif image: 
+- Name: Daniel Nkwocha
+  Role: Senior Insight and Innovation Consultant
+  Image: "/uploads/daniel.png"
+  Question: How can we uncover what people actually do, vs. what they say they do?
   Gif image: 
 - Name: Leva Kwestany
   Role: Senior Filmmaker
