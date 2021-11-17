@@ -1,5 +1,5 @@
 ---
-title: Mama Kwanza for The Kays Foundation
+title: Mama Kwanza - The Kays Foundation
 date: 2020-11-12 01:13:00 Z
 position: 0
 Video Link: <iframe class="carousel-main" src="https://player.vimeo.com/video/364756937"
