@@ -25,13 +25,14 @@ Clients copy: We work with organisations  from global tech giants to one woman N
 Clients:
 - Logo: "/uploads/apple.png"
 - Logo: "/uploads/TGS_clients_IG-85d061.png"
+- Logo: "/uploads/TGS_clients_mov.png"
 - Logo: "/uploads/booking.png"
+- Logo: "/uploads/TGS_clients_children.png"
 - Logo: "/uploads/starbucks.png"
 - Logo: "/uploads/TGS_clients_aviva.png"
 - Logo: "/uploads/TGS_clients_yandr.png"
 - Logo: "/uploads/TGS_clients_pepsico.png"
 - Logo: "/uploads/TGS_clients_hub-e633e1.png"
-- Logo: "/uploads/TGS_clients_mov.png"
 - Logo: "/uploads/TGS_clients_unilever.png"
 - Logo: "/uploads/TGS_clients_bond.png"
 - Logo: "/uploads/TGS_clients_hub.png"
@@ -40,7 +41,6 @@ Clients:
 - Logo: "/uploads/TGS_clients_year.png"
 - Logo: "/uploads/TGS_clients_girl.png"
 - Logo: "/uploads/TGS_clients_world.png"
-- Logo: "/uploads/TGS_clients_children.png"
 - Logo: "/uploads/TGS_clients_human.png"
 Team:
 - Name: Saul Parker
@@ -55,7 +55,7 @@ Team:
   Question: How can we help young people free themselves of self-consciousness?
   Gif image: 
 - Name: James Lewis
-  Role: Head of production
+  Role: Head of Studio
   Image: "/uploads/James_headshot-4_websquare.jpg"
   Question: How can we instil behaviour change techniques into our films?
   Gif image: "/uploads/low_james.gif"
