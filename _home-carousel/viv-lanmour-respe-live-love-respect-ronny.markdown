@@ -1,5 +1,5 @@
 ---
-title: Viv, Lanmour, Respe' (Live, Love, Respect) - Ronny
+title: 'Ronny: Live, Love, Respect - LGBTISey'
 date: 2021-04-14 12:57:00 Z
 published: false
 position: 8
