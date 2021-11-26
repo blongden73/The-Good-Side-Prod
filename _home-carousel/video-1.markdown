@@ -1,5 +1,5 @@
 ---
-title: A Wake Up Call - The Human Dignity Trust
+title: A Wake Up Call
 date: 2020-11-12 01:14:00 Z
 position: 4
 Video Link: <iframe src="https://player.vimeo.com/video/377610592" width="640" height="360"
