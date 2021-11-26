@@ -17,8 +17,8 @@ The insight Description: Our insight and strategy drove media interventions in U
   men engaged with The Mental Game, a new multimedia format linking sports to mental
   resilience, with proven impact on self care habits. Australia campaign coming soon…
 Image: "/assets/mov_men.jpeg"
-Video: <iframe src="https://player.vimeo.com/video/364756937?h=b67ea64df4&title=0&byline=0&portrait=0"
-  width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+Video: <iframe src="https://player.vimeo.com/video/598404922?h=723b96a792&title=0&byline=0&portrait=0"
+  width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
   allowfullscreen></iframe>
 ---
 
