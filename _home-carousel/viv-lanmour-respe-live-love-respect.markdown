@@ -1,5 +1,5 @@
 ---
-title: 'Andy: Live, Love, Respect - LGBTISey'
+title: 'Andy: Live, Love, Respect'
 date: 2021-04-14 12:56:00 Z
 position: 9
 Video Link: <iframe src="https://player.vimeo.com/video/524528326?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
