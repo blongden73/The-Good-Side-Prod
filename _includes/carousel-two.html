@@ -1,4 +1,4 @@
-{% assign carousel = site.home-carousel %}
+{% assign carousel = site.home-carousel | sort:"position" %}
 {{carousel}}
 <div class="gs-wrapper">
   <div class="random-circle special-circle"></div>
