@@ -1,5 +1,5 @@
 ---
-title: The Corona Diaries - Episode 10
+title: The Corona Diaries (Ep10)
 date: 2020-11-14 10:16:00 Z
 position: 8
 Video Link: <iframe src="https://player.vimeo.com/video/421584273" width="640" height="360"
