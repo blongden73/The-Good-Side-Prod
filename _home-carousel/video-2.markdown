@@ -1,10 +1,10 @@
 ---
-title: '"A Wake Up Call" for The Human Dignity Trust'
-date: 2020-11-12 01:14:00 Z
+title: Mama Kwanza - The Kays Foundation
+date: 2020-11-12 01:13:00 Z
 position: 2
-Video Link: <iframe src="https://player.vimeo.com/video/377610592" width="640" height="360"
-  frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-Image: "/uploads/A%20Wake%20Up%20Call%20Thumbnail%20(IDA%20Laurels).jpg"
-video-id: https://player.vimeo.com/video/377610592
+Video Link: <iframe class="carousel-main" src="https://player.vimeo.com/video/364756937"
+  width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+Image: "/uploads/Mama%20Kwanza%20YT%20Thumbnail.png"
+video-id: https://player.vimeo.com/video/364756937
 ---
 
