@@ -1,5 +1,5 @@
 ---
-title: Defending Dignity - The Human Dignity Trust
+title: Defending Dignity, The Human Dignity Trust
 date: 2021-11-26 16:41:00 Z
 position: 0
 Video Link: <iframe src="https://player.vimeo.com/video/644501511?h=a08e6de7f7" width="640"
