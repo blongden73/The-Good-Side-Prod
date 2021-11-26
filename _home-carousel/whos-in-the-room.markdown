@@ -6,7 +6,7 @@ Video Link: '<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="h
   frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen
   style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Global Witness:
   Climate Truths - What is greenwashing?"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>'
-Image: "/uploads/GW_Explains_thumbnail_1280x720px_Whosintheroom.png"
+Image: 
 video-id: https://player.vimeo.com/video/636306814
 ---
 
