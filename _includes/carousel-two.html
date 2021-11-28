@@ -27,7 +27,7 @@
 <div class="flex video-wrapper">
   <div class="video-left">
     {% for item in carousel limit: 1 %}
-      {{item.['Video Link']]}}
+      <iframe class="carousel-main" src="{{item.video-id}}" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
     {% endfor %}
     <p>Stories show us what we share in common and what makes us unique. Through emotional connection we can shift beliefs and find pathways to change. From award-winning impact documentaries to explainers, here are a few of our films.</p>
   </div>
