@@ -14,10 +14,10 @@ The insight Description: Adopting decision science levers and user personas from
   ideas. Regional trial campaigns were launched in Manchester, Bristol and Leeds based
   on our behavioural insights.
 Image: "/uploads/New%20cups-9151d1.png"
-Video: |-
-  <iframe src="https://player.vimeo.com/video/333524743?h=d47998ace0" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+Video: '<iframe src="https://player.vimeo.com/video/333524743?h=d47998ace0" width="100%"
+  height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-  <iframe src="https://player.vimeo.com/video/364756937?h=b67ea64df4&title=0&byline=0&portrait=0" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+'
 Subtitle: X HUBBUB
 ---
 
