@@ -13,7 +13,7 @@ The insight Description: Adopting decision science levers and user personas from
   research, we wrote creative briefs for agencies tasked with developing campaign
   ideas. Regional trial campaigns were launched in Manchester, Bristol and Leeds based
   on our behavioural insights.
-Image: "/uploads/New%20cups-9151d1.png"
+Image: "/uploads/Coffee%20counter%20web.jpg"
 Video: '<iframe src="https://player.vimeo.com/video/333524743?h=d47998ace0" width="100%"
   height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
