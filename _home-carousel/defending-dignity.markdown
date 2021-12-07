@@ -1,5 +1,5 @@
 ---
-title: Defending Dignity
+title: 'HDT: Defending Dignity'
 date: 2021-11-26 16:41:00 Z
 position: 1
 Video Link: <iframe src="https://player.vimeo.com/video/644501511?h=a08e6de7f7" width="640"
