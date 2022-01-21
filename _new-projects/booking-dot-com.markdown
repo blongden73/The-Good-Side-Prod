@@ -1,7 +1,7 @@
 ---
 title: Booking.com
 date: 2021-11-02 23:02:00 Z
-position: 3
+position: 5
 Intro: Improving travel experience for LGBTQI+ people with Booking.Com
 Question: How can we help LGBTQIA+ travellers in the UK, Germany and Netherlands feel
   safe and confident exploring the world?
