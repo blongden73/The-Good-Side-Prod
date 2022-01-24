@@ -49,16 +49,16 @@ Team:
   Question: What do values really mean to people, and how do they show up in their
     lives and choices?
   Gif image: 
-- Name: Liz Cheesbrough
-  Role: Senior Insight Director
-  Image: "/uploads/Liz_TGS-1%20Small.jpg"
-  Question: How can we help young people free themselves of self-consciousness?
-  Gif image: 
 - Name: James Lewis
   Role: Head of Studio
   Image: "/uploads/James_headshot-4_websquare.jpg"
   Question: How can we instil behaviour change techniques into our films?
   Gif image: "/uploads/low_james.gif"
+- Name: Liz Cheesbrough
+  Role: Senior Insight Director
+  Image: "/uploads/Liz_TGS-1%20Small.jpg"
+  Question: How can we help young people free themselves of self-consciousness?
+  Gif image: 
 - Name: Adrianne Colyer
   Role: People and Projects Manager
   Image: "/uploads/adriannecolyerweb.jpg"
@@ -67,7 +67,7 @@ Team:
   Gif image: 
 - Name: Sophie Solly
   Role: Insight Director
-  Image: 
+  Image: "/uploads/Sophie%20Solly.png"
   Question: 
   Gif image: 
 - Name: Kymberly Loeb
