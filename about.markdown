@@ -55,18 +55,12 @@ Team:
   Question: How can we instil behaviour change techniques into our films?
   Gif image: "/uploads/low_james.gif"
 - Name: Liz Cheesbrough
-  Role: Senior Insight Director
+  Role: Business Director
   Image: "/uploads/Liz_TGS-1%20Small.jpg"
   Question: How can we help young people free themselves of self-consciousness?
   Gif image: 
-- Name: Adrianne Colyer
-  Role: People and Projects Manager
-  Image: "/uploads/adriannecolyerweb.jpg"
-  Question: How do we keep participants engaged throughout the research process and
-    ensure they have a positive experience?
-  Gif image: 
 - Name: Sophie Solly
-  Role: Insight Director
+  Role: Strategy & Insight Director
   Image: "/uploads/Sophie%20Solly.png"
   Question: 
   Gif image: 
@@ -75,18 +69,23 @@ Team:
   Image: "/uploads/IMG_20210304_165426-01-6e2f64.jpeg"
   Question: How can we work with people's cognitive biasis to impact social change?
   Gif image: 
+- Name: Peter Harrison
+  Role: Research Director
+  Image: 
+  Question: 
+  Gif image: 
+- Name: Laura Schofield
+  Role: Field and Project Manager
+  Image: 
+  Question: 
+  Gif image: 
 - Name: Daniel Nkwocha
   Role: Senior Insight and Innovation Consultant
   Image: "/uploads/daniel.png"
   Question: How can we uncover what people actually do, vs. what they say they do?
   Gif image: 
-- Name: Leva Kwestany
-  Role: Senior Filmmaker
-  Image: "/uploads/Leva.jpg"
-  Question: Which films have had the biggest impact on the world?
-  Gif image: 
 - Name: Matthew Huntley
-  Role: Senior Researcher
+  Role: Research Manager
   Image: "/uploads/Mathew%20GIF%20Still.jpg"
   Question: What film best represents your life?
   Gif image: "/uploads/Mathew-GIF2_low-res.gif"
@@ -95,8 +94,13 @@ Team:
   Image: "/uploads/Odette-2.jpg"
   Question: How do we get young men to reach out to their friends?
   Gif image: "/uploads/Odette-GIF.gif"
+- Name: Laura Gafforio
+  Role: Researcher
+  Image: 
+  Question: 
+  Gif image: 
 - Name: Ticiana Riveiro
-  Role: Administrator
+  Role: Operations Executive
   Image: "/uploads/Ticiana_head%20&%20shoulders.png"
   Question: What did you learn from this?
   Gif image: 
