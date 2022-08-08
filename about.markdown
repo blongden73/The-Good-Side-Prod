@@ -74,11 +74,6 @@ Team:
   Image: 
   Question: 
   Gif image: 
-- Name: Laura Schofield
-  Role: Field and Project Manager
-  Image: 
-  Question: 
-  Gif image: 
 - Name: Daniel Nkwocha
   Role: Senior Insight and Innovation Consultant
   Image: "/uploads/daniel.png"
