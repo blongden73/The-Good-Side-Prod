@@ -64,15 +64,15 @@ Team:
   Image: "/uploads/Sophie%20Solly.png"
   Question: 
   Gif image: 
-- Name: Kymberly Loeb
-  Role: Associate Director
-  Image: "/uploads/Kym%202%20sq.jpg"
-  Question: How can we work with people's cognitive biasis to impact social change?
-  Gif image: 
 - Name: Peter Harrison
   Role: Research Director
   Image: 
   Question: 
+  Gif image: 
+- Name: Kymberly Loeb
+  Role: Associate Director
+  Image: "/uploads/Kym%202%20sq.jpg"
+  Question: How can we work with people's cognitive biasis to impact social change?
   Gif image: 
 - Name: Daniel Nkwocha
   Role: Senior Insight and Innovation Consultant
