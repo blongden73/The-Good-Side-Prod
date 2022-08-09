@@ -100,7 +100,7 @@ Team:
   Question: What did you learn from this?
   Gif image: 
 - Name: Otto
-  Role: Canine Consultant
+  Role: Puplick Relations
   Image: "/uploads/Otto.jpg"
   Question: 
   Gif image: 
