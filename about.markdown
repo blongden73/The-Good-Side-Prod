@@ -66,7 +66,7 @@ Team:
   Gif image: 
 - Name: Kymberly Loeb
   Role: Associate Director
-  Image: "/uploads/IMG_20210304_165426-01-6e2f64.jpeg"
+  Image: "/uploads/Kym%202%20sq.jpg"
   Question: How can we work with people's cognitive biasis to impact social change?
   Gif image: 
 - Name: Peter Harrison
@@ -91,7 +91,7 @@ Team:
   Gif image: "/uploads/Odette-GIF.gif"
 - Name: Laura Gafforio
   Role: Researcher
-  Image: "/uploads/Passport%20photo-bce7a2.jpeg"
+  Image: "/uploads/Laura%20G%202%20sq.jpg"
   Question: 
   Gif image: 
 - Name: Ticiana Riveiro
