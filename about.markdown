@@ -61,7 +61,7 @@ Team:
   Gif image: 
 - Name: Sophie Solly
   Role: Strategy & Insight Director
-  Image: "/uploads/Sophie%20Solly.png"
+  Image: "/uploads/Sophie%20Solly%202.jpg"
   Question: 
   Gif image: 
 - Name: Peter Harrison
