@@ -65,7 +65,7 @@ Team:
   Question: 
   Gif image: 
 - Name: Peter Harrison
-  Role: Research Director
+  Role: Insight Director
   Image: "/uploads/Screenshot%202022-08-09%20at%2015.42.37.png"
   Question: 
   Gif image: 
