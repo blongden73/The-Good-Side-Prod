@@ -91,7 +91,7 @@ Team:
   Gif image: "/uploads/Odette-GIF.gif"
 - Name: Laura Gafforio
   Role: Researcher
-  Image: "/uploads/Laura%20G%202%20sq.jpg"
+  Image: "/uploads/Laura%20G%202%20sq-f1b025.jpg"
   Question: 
   Gif image: 
 - Name: Ticiana Riveiro
