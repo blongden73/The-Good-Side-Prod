@@ -51,7 +51,7 @@ Team:
   Gif image: 
 - Name: James Lewis
   Role: Head of Studio
-  Image: "/uploads/James%20Headshot%20New%20sq%20web.jpg"
+  Image: "/uploads/James%20Headshot%20New%20sq%20web-2cb2c4.jpg"
   Question: How can we instil behaviour change techniques into our films?
   Gif image: "/uploads/low_james.gif"
 - Name: Liz Cheesbrough
