@@ -13,12 +13,12 @@ The Work Description: |-
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2JZH0ApvpdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 The insight Description: "Set up as a live ‘test and learn’ experiment in cultural
   innovation, we delivered a full campaign analysis with clear sector recommendations
-  to deepen the story further and reverse the decades of decline in public support.\n\n*
-  5.3m unique users, massively exceeding target reach\n* 11% of the total audience
+  to deepen the story further and reverse the decades of decline in public support.\n\n-
+  5.3m unique users, massively exceeding target reach\n- 11% of the total audience
   recalled the campaign, exceeding Facebook EMEA norm\nfor non-profits by 69%, and
-  the overall norm by 175%\n* Strong qual engagement: \"There is hope out there even
+  the overall norm by 175%\n- Strong qual engagement: \"There is hope out there even
   though we might not realise it, there are people constantly helping and looking
-  out for people.\n* 66% of target audience liked or loved the campaign \n\nAnd, crucially,
+  out for people.\n- 66% of target audience liked or loved the campaign \n\nAnd, crucially,
   we saw a significant uplift in positive views of international aid and aid organisations.\n\n<blockquote
   class=\"instagram-media\" data-instgrm-permalink=\"https://www.instagram.com/p/CY3sYgYqOPA/?utm_source=ig_embed&amp;utm_campaign=loading\"
   data-instgrm-version=\"14\" style=\" background:#FFF; border:0; border-radius:3px;
