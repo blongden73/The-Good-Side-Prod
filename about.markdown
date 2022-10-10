@@ -53,7 +53,6 @@ Team:
   Role: Head of Studio
   Image: "/uploads/James%20Headshot%20New%20sq%20web-2cb2c4.jpg"
   Question: How can we instil behaviour change techniques into our films?
-  Gif image: "/uploads/low_james.gif"
 - Name: Liz Cheesbrough
   Role: Business Director
   Image: "/uploads/Liz_TGS-1%20Small.jpg"
@@ -79,11 +78,11 @@ Team:
   Image: "/uploads/daniel.png"
   Question: How can we uncover what people actually do, vs. what they say they do?
   Gif image: 
-- Name: Matthew Huntley
+- Name: Jack Ellingham
   Role: Research Manager
-  Image: "/uploads/Mathew%20GIF%20Still.jpg"
+  Image: "/uploads/Jack%20Sq.png"
   Question: What film best represents your life?
-  Gif image: "/uploads/Mathew-GIF2_low-res.gif"
+  Gif image: 
 - Name: Odette Schwartz
   Role: Senior Researcher
   Image: "/uploads/Odette-2.jpg"
