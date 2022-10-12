@@ -29,14 +29,12 @@ The insight Description: |
 
   <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/716136634?h=daa4bef553&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Celebration Day: Jo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-  13.7m impressions across platforms
-  511,626 TikTok views
-  40k website page events
-  PR across print, online + broadcast
+  - 13.7m impressions across platforms
+  - 511,626 TikTok views
+  - 40k website page events
+  - PR across print, online + broadcast
 
-  We successfully seeded a moment in the calendar
-  We helped make death more approachable by shifting the energy from loss and grief to embrace celebration and joy.
-  We look forward to watching this important day grow in strength and support.
+  We helped make death more approachable by shifting the energy from loss and grief to embrace celebration and joy and we look forward to watching this important day grow in strength and support.
 Image: "/uploads/Neil%202022-06-17%20at%2016.25.36.png"
 ---
 
