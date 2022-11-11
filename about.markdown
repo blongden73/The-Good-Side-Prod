@@ -63,11 +63,6 @@ Team:
   Image: "/uploads/Sophie%20Solly%202.jpg"
   Question: 
   Gif image: 
-- Name: Peter Harrison
-  Role: Insight Director
-  Image: "/uploads/Screenshot%202022-08-09%20at%2015.42.37.png"
-  Question: 
-  Gif image: 
 - Name: Kymberly Loeb
   Role: Associate Director
   Image: "/uploads/Kym%202%20sq.jpg"
