@@ -16,3 +16,4 @@ The insight Description: 'The work is currently being fed into the campaign stra
 Image: "/uploads/Models%20holding%20hands,%20Lagos,%20Nigeria,%202019%20by%20Stephen%20Tayo.%20Courtesy%20Lagos%20Fashion%20Week.jpg"
 ---
 
+[](https://thisisthegoodside.com/v&a)
