@@ -1,6 +1,7 @@
 ---
 title: V&A
 date: 2022-01-21 13:48:00 Z
+permalink: "/vanda"
 position: 2
 Intro: Inspiring a more inclusive experience for the Black community with the V&A
 Question: How can we create inspiring campaigns that go beyond marketing to build
