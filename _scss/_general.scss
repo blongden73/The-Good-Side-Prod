@@ -889,6 +889,11 @@ small {
 { @supports (-webkit-appearance:none) {
       animation: none !important;
   }}
+
+  @include mq($until: desktop) {
+    animation: none !important;
+    display: none;
+  }
 }
 
 @keyframes bg-animation {

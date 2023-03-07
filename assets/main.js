@@ -579,19 +579,20 @@ function logoChange() {
   console.log('logo');
   var mainVideo = document.querySelector('.gs-video');
   var siteLogo = document.querySelector('.tg-header__logo');
-  document.addEventListener('wheel', function(){
-    console.log(mainVideo.getBoundingClientRect());
-
-    if(mainVideo.getBoundingClientRect().x <= -400) {
-      console.log('pause');
-      mainVideo.querySelector('video').pause();
-      siteLogo.classList.add('black');
-    }else {
-      console.log('play');
-      mainVideo.querySelector('video').play();
-      siteLogo.classList.remove('black');
-    }
-  });
+  if(!isMobile()){
+    document.addEventListener('wheel', function(){
+      console.log(mainVideo.getBoundingClientRect());
+      if(mainVideo.getBoundingClientRect().x <= -400) {
+        console.log('pause');
+        mainVideo.querySelector('video').pause();
+        siteLogo.classList.add('black');
+      }else {
+        console.log('play');
+        mainVideo.querySelector('video').play();
+        siteLogo.classList.remove('black');
+      }
+    });
+  }
 }
 
 function carouselVideos(){
