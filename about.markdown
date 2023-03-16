@@ -82,7 +82,7 @@ Team:
   Role: Senior Researcher
   Image: "/uploads/Odette-2.jpg"
   Question: How do we get young men to reach out to their friends?
-  Gif image: "/uploads/Odette-GIF.gif"
+  Gif image: 
 - Name: Laura Gafforio
   Role: Researcher
   Image: "/uploads/Laura%20G%202%20sq-f1b025.jpg"
