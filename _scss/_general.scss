@@ -982,6 +982,13 @@ small {
   }
 }
 
+.gs-video {
+  display: none;
+  @include mq($from: desktop) {
+    display: block;
+  }
+}
+
 .circles-slide {
   display: none;
 }
