@@ -955,6 +955,7 @@ small {
   align-items: center;
   position: relative;
   z-index: 100;
+  display: none;
 
   @include mq($from: desktop) {
     height: 96vh;
@@ -962,6 +963,7 @@ small {
     margin-left: auto;
     margin-right: auto;
     justify-content: center;
+    display: block;
   }
 
   .video-carousel {
