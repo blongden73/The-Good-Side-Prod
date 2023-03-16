@@ -726,7 +726,7 @@ function specialCircles() {
 
 function init(){
   hash();
-  animateCricles();
+  // animateCricles();
   // randomCircles();
   openpage();
   closepage();
@@ -753,7 +753,7 @@ function init(){
     closeWindow()
     carouselVideos();
     exitIntent();
-    specialCircles();
+    // specialCircles();
     menu();
   }
 }init();
