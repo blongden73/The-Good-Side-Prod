@@ -25,6 +25,7 @@ if(!isMobile()){
        });
     });
   } else {
+    return();
   }
 }
 
@@ -331,7 +332,7 @@ function onscrollanimate() {
     for(i=0; i<homeslides.length; i++) {
       homeslides[i].classList.add('inview');
       if(homeslides[i].classList.contains('circles-slide')){
-        window.requestAnimationFrame(letsplayball);
+        // window.requestAnimationFrame(letsplayball);
       } else {
         ballsanimation.pause();
       }
