@@ -752,7 +752,9 @@ function init(){
     caseStudyMore();
     closeWindow()
     carouselVideos();
-    exitIntent();
+    if(!isMobile()) {
+      exitIntent();
+    }
     // specialCircles();
     menu();
   }
