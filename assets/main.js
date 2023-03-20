@@ -509,7 +509,7 @@ function checkHash(){
       var hashId = hashinurl.hash.replace('#', '');
       var target = document.querySelector('[data-url="' + hashId + '"]');
       target.classList.add('inview');
-      target.scrollIntoView({behavior: "smooth"});
+      // target.scrollIntoView({behavior: "smooth"});
     }
   }else {
     console.log('no hash');
@@ -725,7 +725,7 @@ function specialCircles() {
 }
 
 function init(){
-  hash();
+  // hash();
   // animateCricles();
   // randomCircles();
   openpage();
