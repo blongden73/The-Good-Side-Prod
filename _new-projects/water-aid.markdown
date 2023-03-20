@@ -15,5 +15,6 @@ The Work Description: WaterAid asked us to explore ways to influence the Johnson
 The insight Description: Our network mapping and communications strategy has kick-started
   a new organisational approach to building influencing strategies within WaterAid.
 Image: "/uploads/wateraid.jpg"
+Color: blue
 ---
 

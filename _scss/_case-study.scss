@@ -176,7 +176,11 @@
 .gs-case-header {
   color: #2FEA2F;
 
-  &.yellow {
+  &.green-text {
+    color: #2FEA2F;
+  }
+
+  &.yellow-text {
     color: $yellow;
   }
 

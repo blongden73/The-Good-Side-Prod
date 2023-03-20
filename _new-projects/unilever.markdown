@@ -20,5 +20,6 @@ The insight Description: Our storytelling, photography and evaluation content se
   LinkedIn and GSMA.
 Image: "/uploads/transform%20web.jpg"
 Subtitle: X FDCO
+Color: red
 ---
 

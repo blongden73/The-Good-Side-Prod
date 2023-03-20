@@ -12,5 +12,6 @@ The insight Description: Our work reshaped Booking.com’s internal strategy and
   Proud partner community, and was featured as a keynote at the ESOMAR 2020 Client
   Summit.
 Image: "/uploads/booking.jpg"
+Color: yellow
 ---
 

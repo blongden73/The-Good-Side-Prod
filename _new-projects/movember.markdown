@@ -15,5 +15,6 @@ The insight Description: |-
 
   <iframe src="https://player.vimeo.com/video/638830774?h=ce9aa0d3cf" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 Image: "/assets/mov_men.jpeg"
+Color: yellow
 ---
 

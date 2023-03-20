@@ -51,54 +51,10 @@ layout: default
       <svg class="arrow next-arrow" width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="26" cy="26" r="26" transform="rotate(90 26 26)" fill="#28275C"/><path d="M17.9954 24.2495l-2.5217 1.4167 10.54 12.9766L36.582 25.6662l-2.5216-1.4167-6.545 8.2167V13.6528h-2.975v18.8134l-6.545-8.2167z" fill="#A1CCC4"/></svg>
     </div>
   </div>
-  <div id="projects" class="case-new movember height-ninty special-circles-slide gs-slide background-two white inview arrow-right" data-url="projects">
-    {% include case-study-movember.html %}
-    <div class="arrow-container">
-      <svg class="arrow next-arrow" width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="26" cy="26" r="26" transform="rotate(90 26 26)" fill="#28275C"/><path d="M17.9954 24.2495l-2.5217 1.4167 10.54 12.9766L36.582 25.6662l-2.5216-1.4167-6.545 8.2167V13.6528h-2.975v18.8134l-6.545-8.2167z" fill="#A1CCC4"/></svg>
-    </div>
-  </div>
-  <div id="projects" class="case-new height-ninty special-circles-slide gs-slide background-one white inview arrow-right" data-url="projects">
-    {% include case-study.html %}
-    <div class="arrow-container">
-      <svg class="arrow next-arrow" width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="26" cy="26" r="26" transform="rotate(90 26 26)" fill="#28275C"/><path d="M17.9954 24.2495l-2.5217 1.4167 10.54 12.9766L36.582 25.6662l-2.5216-1.4167-6.545 8.2167V13.6528h-2.975v18.8134l-6.545-8.2167z" fill="#A1CCC4"/></svg>
-    </div>
-  </div>
-  <div id="projects" class="case-new gs-slide special-circles-slide background-three white inview arrow-right" data-url="projects">
-    {% include case-study-kays.html %}
-    <div class="arrow-container">
-      <svg class="arrow next-arrow" width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="26" cy="26" r="26" transform="rotate(90 26 26)" fill="#28275C"/><path d="M17.9954 24.2495l-2.5217 1.4167 10.54 12.9766L36.582 25.6662l-2.5216-1.4167-6.545 8.2167V13.6528h-2.975v18.8134l-6.545-8.2167z" fill="#A1CCC4"/></svg>
-    </div>
-  </div>
-  <div id="projects" class="case-new height-ninty special-circles-slide gs-slide background-two white inview arrow-right" data-url="projects">
-    {% include case-study-unilever.html %}
-    <div class="arrow-container">
-      <svg class="arrow next-arrow" width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="26" cy="26" r="26" transform="rotate(90 26 26)" fill="#28275C"/><path d="M17.9954 24.2495l-2.5217 1.4167 10.54 12.9766L36.582 25.6662l-2.5216-1.4167-6.545 8.2167V13.6528h-2.975v18.8134l-6.545-8.2167z" fill="#A1CCC4"/></svg>
-    </div>
-  </div>
-  <div id="projects" class="case-new height-ninty special-circles-slide gs-slide background-three white inview arrow-right" data-url="projects">
-    {% include case-study-starbucks.html %}
-    <div class="arrow-container">
-      <svg class="arrow next-arrow" width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="26" cy="26" r="26" transform="rotate(90 26 26)" fill="#28275C"/><path d="M17.9954 24.2495l-2.5217 1.4167 10.54 12.9766L36.582 25.6662l-2.5216-1.4167-6.545 8.2167V13.6528h-2.975v18.8134l-6.545-8.2167z" fill="#A1CCC4"/></svg>
-    </div>
-  </div>
-  <div id="projects" class="case-new height-ninty special-circles-slide gs-slide background-three white inview arrow-right" data-url="projects">
-    {% include case-study-wateraid.html %}
-    <div class="arrow-container">
-      <svg class="arrow next-arrow" width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="26" cy="26" r="26" transform="rotate(90 26 26)" fill="#28275C"/><path d="M17.9954 24.2495l-2.5217 1.4167 10.54 12.9766L36.582 25.6662l-2.5216-1.4167-6.545 8.2167V13.6528h-2.975v18.8134l-6.545-8.2167z" fill="#A1CCC4"/></svg>
-    </div>
-  </div>
-  <div id="projects" class="case-new height-ninty special-circles-slide gs-slide background-three white inview arrow-right" data-url="projects">
-    {% include case-study-aid-alliance.html %}
-    <div class="arrow-container">
-      <svg class="arrow next-arrow" width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="26" cy="26" r="26" transform="rotate(90 26 26)" fill="#28275C"/><path d="M17.9954 24.2495l-2.5217 1.4167 10.54 12.9766L36.582 25.6662l-2.5216-1.4167-6.545 8.2167V13.6528h-2.975v18.8134l-6.545-8.2167z" fill="#A1CCC4"/></svg>
-    </div>
-  </div>
-  <div id="projects" class="case-new height-ninty special-circles-slide gs-slide background-three white inview arrow-right" data-url="projects">
-    {% include case-study-va.html %}
-    <div class="arrow-container">
-      <svg class="arrow next-arrow" width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="26" cy="26" r="26" transform="rotate(90 26 26)" fill="#28275C"/><path d="M17.9954 24.2495l-2.5217 1.4167 10.54 12.9766L36.582 25.6662l-2.5216-1.4167-6.545 8.2167V13.6528h-2.975v18.8134l-6.545-8.2167z" fill="#A1CCC4"/></svg>
-    </div>
-  </div>
+
+  {% include case-study-default.html %}
+
+
   <div id="team" class="team-new gs-slide special-circles-slide background-one white inview arrow-right" data-url="team">
     {% include team.html %}
     <div class="arrow-container">

@@ -36,5 +36,6 @@ The insight Description: |
 
   We helped make death more approachable by shifting the energy from loss and grief to embrace celebration and joy and we look forward to watching this important day grow in strength and support.
 Image: "/uploads/Neil%202022-06-17%20at%2016.25.36.png"
+Color: green
 ---
 

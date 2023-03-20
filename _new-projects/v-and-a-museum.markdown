@@ -15,5 +15,6 @@ The insight Description: 'The work is currently being fed into the campaign stra
   for the Africa Fashion exhibit; with a second phase with the Ambassadors being planned
   to continue to build on the insight and continue the museum’s change  journey. '
 Image: "/uploads/Models%20holding%20hands,%20Lagos,%20Nigeria,%202019%20by%20Stephen%20Tayo.%20Courtesy%20Lagos%20Fashion%20Week.jpg"
+Color: yellow
 ---
 

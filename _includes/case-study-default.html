@@ -1,0 +1,40 @@
+{% assign projects = site.new-projects %}
+{% for project in projects %}
+<div id="projects" class="case-new {{ project.title | slugify  }} height-ninty special-circles-slide gs-slide background-two white inview arrow-right" data-url="projects">
+  <div class="gs-wrapper nopadd">
+    <div class="centered width-eighty hover-case">
+      <h1 class="mega gs-case-header {{ project.Color | downcase  }}-text">{{ project.title }}</h1>
+    </div>
+    <div class="gs-case-image-floating">
+      <img loading="lazy" src="{{ project.Image }}">
+    </div>
+    <div class="gs-case-image opacity-six">
+      <img loading="lazy" src="{{ project.Image }}">
+    </div>
+
+    <div class="case-study-footer width-eighty">
+      <div class="flex">
+        <div class="col">
+          <h3>{{ project.Intro }}</h3>
+          <div class="gs-button case-read-more" data-selector="movember">Read More</div>
+        </div>
+      </div>
+    </div>
+    <div class="case-study-info-wrapper movember">
+      <span class="close-window">Close</span>
+      <h6>The Question</h6>
+      <h2>{{ project.Question }}</h2>
+      {% if project.Video %}
+        {{project.Video}}
+      {% endif %}
+      <h6>The Work</h6>
+      <p>{{ project.['The Work Description'] | markdownify }}</p>
+      <h6>The Impact</h6>
+      <p>{{ project.['The insight Description'] | markdownify }}</p>
+    </div>
+  </div>
+  <div class="arrow-container">
+    <svg class="arrow next-arrow" width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="26" cy="26" r="26" transform="rotate(90 26 26)" fill="#28275C"/><path d="M17.9954 24.2495l-2.5217 1.4167 10.54 12.9766L36.582 25.6662l-2.5216-1.4167-6.545 8.2167V13.6528h-2.975v18.8134l-6.545-8.2167z" fill="#A1CCC4"/></svg>
+  </div>
+</div>
+{% endfor %}
