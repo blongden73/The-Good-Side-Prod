@@ -2,9 +2,6 @@
 title: The Good Side
 timezone: UTC
 collections:
-  case-studies:
-    title: Case Studies
-    output: true
   home-carousel:
     title: Home Carousel
     output: true
