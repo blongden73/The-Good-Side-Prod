@@ -20,9 +20,6 @@ collections:
   studio:
     title: Studio
     output: true
-  themes:
-    title: Themes
-    output: true
   uploads:
     title: Uploads
     output: true
