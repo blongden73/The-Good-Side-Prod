@@ -17,9 +17,6 @@ collections:
   posts:
     title: Posts
     output: true
-  questions:
-    title: Questions
-    output: true
   studio:
     title: Studio
     output: true
