@@ -983,7 +983,7 @@ small {
 }
 
 .gs-video {
-  display: none;
+  display: block;
   @include mq($from: desktop) {
     display: block;
   }
