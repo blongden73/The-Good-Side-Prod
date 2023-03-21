@@ -9,14 +9,15 @@ layout: default
 </div>
 <div class="blog-wrapper">
     <div class="gs-container-centered">
-    <div class="flex">
+    <div class="flex space-between">
     {% assign blogs = site.blog %}
         {% for blog in blogs %}
-        <div class="blog-post">
-            <img src="{{blog.['Main Image']}}">
-            {{blog.title}}
-            {{blog.content}}
-        </div>
+        <a class="blog-post" href="{{blog.url}}">
+            <div>
+                <img src="{{blog.['Main Image']}}">
+                <h3>{{blog.title}}</h3>
+            </div>
+        </a>
         {% endfor %}
     </div>
     </div>

@@ -1357,7 +1357,7 @@ small {
 .blog-wrapper-title {
   padding-top: 180px;
   text-align: center;
-  padding-bottom: 150px;
+  padding-bottom: 180px;
 }
 
 .gs-container-centered {
@@ -1372,4 +1372,8 @@ small {
     width: 49%;
     height: auto;
   }
+}
+
+.space-between {
+  justify-content: space-between;
 }
