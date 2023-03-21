@@ -1353,3 +1353,15 @@ small {
     background-color: $blue;
   }
 }
+
+.blog-wrapper-title {
+  padding-top: 180px;
+  text-align: center;
+}
+
+.gs-container-centered {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1600px;
+  padding-left: 0;
+}
