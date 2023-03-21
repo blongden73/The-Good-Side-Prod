@@ -1377,3 +1377,38 @@ small {
 .space-between {
   justify-content: space-between;
 }
+
+.gs-wrapper-article {
+  padding-top: 120px;
+
+  .gs-container-centered {
+    h2 {
+      text-align: center;
+    }
+  }
+}
+
+.gs-wrapper-blog-inner {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.blog-post-layout {
+  .tg-header__left {
+    svg {
+      path {
+        fill: $blue;
+      }
+    }
+  }
+}
+
+.article-date {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}

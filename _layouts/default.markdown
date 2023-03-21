@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="{{page.layout}}-layout">
     <!-- <div class="bg"></div> -->
 
     {% include header.html %}
