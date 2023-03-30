@@ -1437,3 +1437,17 @@ small {
     transition: all ease-in-out 0.3s;
   }
 }
+
+.blog-layout {
+  .tg-header {
+    svg {
+      path {
+        fill: #000;
+      }
+    }
+  }
+}
+
+.blog-wrapper {
+  padding-bottom: 100px;
+}

@@ -24,3 +24,6 @@ layout: default
     </div>
     </div>
 </div>
+
+{% include tg-footer.html %}
+{% include tg-footer-base.html %}
