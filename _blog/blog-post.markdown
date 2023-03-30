@@ -19,6 +19,8 @@ But while the vintage scares of eras past are half-remembered as thrillingly ina
 
 As Gordy Sang and Brian Siedband co-founders of Quality Meats Creative in Chicago say, adding a few drops of fear to a campaign rather than piling it on can sharpen a campaign message to a point that carries home, rather than freezing you into a trauma response. 
 
+![thegoodside_og-fb85b9.jpg](/uploads/thegoodside_og-fb85b9.jpg)
+
 Their September 2022 spot, March Fourth, to support a march urging the US Senate to ban assault rifles, used fear as its narrative, rather than its intent, turning on its head the fear of yet another gun massacre by counter-intuitively having a range of people explain why they wouldn’t march on Washington. 
 
 > We use fear not to get you scared but to give that head tilt, like, ‘I didn’t think about it that way'. 
