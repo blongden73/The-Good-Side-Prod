@@ -1404,7 +1404,7 @@ small {
   .tg-header__left {
     svg {
       path {
-        fill: $blue;
+        fill: #000;
       }
     }
   }
@@ -1450,4 +1450,46 @@ small {
 
 .blog-wrapper {
   padding-bottom: 100px;
+}
+
+.gs-wrapper-article {
+  padding-bottom: 100px;
+}
+
+.gs-blog-container-inner {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+
+  & > p {
+    &:first-of-type::first-letter {
+      font-size: 64px;
+      float: left;
+      margin-top: 42px;
+      margin-right: 10px;
+      line-height: 0;
+    }
+  }
+
+  p {
+    font-size: 20px;
+    line-height: 1.6;
+
+   
+  }
+  blockquote {
+    p {
+      font-family: 'Bureau Grot Extra Compressed';
+      text-transform: uppercase;
+      font-size: 55px;
+      line-height: 1;
+
+      &:before {
+        content: '"';
+        color: $yellow;
+        margin-right: 5px;
+      }
+    }
+  }
 }
