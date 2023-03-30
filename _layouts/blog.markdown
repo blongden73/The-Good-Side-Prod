@@ -4,7 +4,7 @@ layout: default
 
 <div class="blog-wrapper-title">
     <div class="gs-container-centered">
-        <h1>Blog page title</h1>
+        <h1>The Good Side Blog</h1>
     </div>
 </div>
 <div class="blog-wrapper">
@@ -14,7 +14,9 @@ layout: default
         {% for blog in blogs %}
         <a class="blog-post" href="{{blog.url}}">
             <div>
-                <img src="{{blog.['Main Image']}}">
+                <div class="blog-image">
+                    <img src="{{blog.['Main Image']}}">
+                </div>
                 <h3>{{blog.title}}</h3>
             </div>
         </a>
