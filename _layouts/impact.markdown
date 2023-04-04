@@ -18,7 +18,16 @@ layout: default
     </div>
 </div>
 <div class="gs-impact-badges">
-    
+    {% assign commitments = page.['Our Commitment'] %}
+    {% for commitment in commitments %}
+        <div class="gs-impact-container-inner">
+        <div class="gs-impact-table">
+            <div class="flex space-between">
+                <div class="left-logo"><img src="{{commitment.Logo}}"></div><div class="right-descripotion"><p class="commitment-description">{{commitment.Description}}</p></div>
+            </div>
+        </div>
+        </div>
+    {% endfor %}
 </div>
 
 {% include tg-footer.html %}
