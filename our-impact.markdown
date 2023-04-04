@@ -4,6 +4,7 @@ date: 2023-04-04 02:26:00 Z
 Our Commitment:
 - Logo: 
   Description: 
+layout: impact
 ---
 
 The Good Side is a purpose-driven social enterprise. We reinvest profit for purpose, and our commercial projects fund our social change work. We take a more sustainable approach to capitalism, delivering and measuring a triple bottom line: for people, planet and prosperity. 
