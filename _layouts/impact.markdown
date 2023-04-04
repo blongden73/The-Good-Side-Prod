@@ -11,7 +11,15 @@ layout: default
 <div class="gs-impact-header">
     <div class="gs-container-centered">
         <div class="impact-content">
-          {{page.content | markdownify}}
+            <div class="gs-impact-container-inner">
+             {{page.content | markdownify}}
+            </div>
         </div>
     </div>
 </div>
+<div class="gs-impact-badges">
+    
+</div>
+
+{% include tg-footer.html %}
+{% include tg-footer-base.html %}
