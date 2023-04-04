@@ -6,6 +6,9 @@ layout: default
     <div class="gs-wrapper-blog-inner">
         <div class="gs-container-centered">
         <h2>{{page.title}}</h2>
+        <p class="gs-standfirst">
+            {{page.Introduction}}
+        </p>
         <small class="article-date">{{page.date | date_to_string}}</small>
         <img src="{{page.['Main Image']}}">
         <div class="gs-blog-container-inner">
