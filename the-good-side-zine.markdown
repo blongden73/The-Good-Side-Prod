@@ -5,5 +5,6 @@ Zines:
 - Zine Number: 1
   Zine Link: readymag.com
   Zine Image: "/uploads/thegoodside_og-fb85b9.jpg"
+layout: zine
 ---
 
