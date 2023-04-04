@@ -1438,7 +1438,7 @@ small {
   }
 }
 
-.blog-layout {
+.blog-layout, .impact-layout {
   .tg-header {
     svg {
       path {
@@ -1512,4 +1512,25 @@ small {
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.gs-impact-header {
+  padding-top: 280px;
+}
+
+.impact-title {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 18vw;
+}
+
+.big-circle {
+  width: 50vw;
+  height: 50vw;
+  background-color: $yellow;
+  position: absolute;
+  top: -30vh;
+  left: -10vw;
+  z-index: -10;
+  border-radius: 50%;
 }
