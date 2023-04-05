@@ -79,7 +79,7 @@ Team:
   Question: What film best represents your life?
   Gif image: 
 - Name: Odette Schwartz
-  Role: Researcher Manager
+  Role: Research Manager
   Image: "/uploads/Odette-2.jpg"
   Question: How do we get young men to reach out to their friends?
   Gif image: 
