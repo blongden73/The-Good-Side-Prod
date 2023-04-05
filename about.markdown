@@ -79,7 +79,7 @@ Team:
   Question: What film best represents your life?
   Gif image: 
 - Name: Odette Schwartz
-  Role: Senior Researcher
+  Role: Researcher Manager
   Image: "/uploads/Odette-2.jpg"
   Question: How do we get young men to reach out to their friends?
   Gif image: 
@@ -96,6 +96,11 @@ Team:
 - Name: Otto
   Role: Puplick Relations
   Image: "/uploads/Otto.jpg"
+  Question: 
+  Gif image: 
+- Name: Julien Nuwase
+  Role: Intern
+  Image: "/uploads/IMG_1053%20sm2.jpg"
   Question: 
   Gif image: 
 About sentence 1: We help people to understand and impact systems, society and culture.
