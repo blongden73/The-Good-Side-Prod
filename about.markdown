@@ -93,14 +93,14 @@ Team:
   Image: "/uploads/Ticiana_head%20&%20shoulders.png"
   Question: What did you learn from this?
   Gif image: 
+- Name: Julien Nuwase
+  Role: Research Intern
+  Image: "/uploads/IMG_1053%20sm2.jpg"
+  Question: 
+  Gif image: 
 - Name: Otto
   Role: Puplick Relations
   Image: "/uploads/Otto.jpg"
-  Question: 
-  Gif image: 
-- Name: Julien Nuwase
-  Role: Intern
-  Image: "/uploads/IMG_1053%20sm2.jpg"
   Question: 
   Gif image: 
 About sentence 1: We help people to understand and impact systems, society and culture.
