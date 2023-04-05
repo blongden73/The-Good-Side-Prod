@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <div class="exit-intent-cirlce exit zine-email">
   <h1 class="h1">Get the Good Zine</h1>
   <div id="mc_embed_signup">
