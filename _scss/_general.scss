@@ -1438,7 +1438,7 @@ small {
   }
 }
 
-.blog-layout, .impact-layout {
+.blog-layout, .impact-layout, .zine-layout {
   .tg-header {
     svg {
       path {
@@ -1577,4 +1577,51 @@ small {
   line-height: 1;
   text-transform: uppercase;
   letter-spacing: 0.5px;
+}
+
+.zine-image {
+  height: 300px;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.zine-image {
+  position: relative;
+
+  h3 {
+  font-family: 'Bureau Grot Extra Compressed';
+  font-size: 70px;
+  text-transform: uppercase;
+  text-align: center;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+  color: #fff;
+  }
+}
+
+.page-blocker {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0,0,0,0.5);
+  z-index: 10;
+  pointer-events: all;
+
+  &.hide {
+    display: none;
+  }
+}
+
+.zine-email {
+  &.hide {
+    display: none;
+  }
 }

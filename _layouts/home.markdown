@@ -5,7 +5,7 @@ layout: default
 <div class="exit-intent-cirlce">
   <h1 class="h1">Get the Good Zine</h1>
   <div id="mc_embed_signup">
-  <form action="https://thisisthegoodside.us19.list-manage.com/subscribe/post?u=a747a9891de6f7294a56d05ab&amp;id=4bda985eab" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+  <form action="https://thisisthegoodside.us19.list-manage.com/subscribe/post?u=a747a9891de6f7294a56d05ab&amp;id=4bda985eab" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate mc-form" target="_blank" novalidate>
       <div id="mc_embed_signup_scroll">
   <div class="mc-field-group">
     <input type="email" value="" placeholder="Email address" name="EMAIL" class="required email" id="mce-EMAIL">
