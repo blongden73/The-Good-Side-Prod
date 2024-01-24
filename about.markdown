@@ -44,19 +44,18 @@ Clients:
 - Logo: "/uploads/TGS_clients_human.png"
 Team:
 - Name: Saul Parker
-  Role: Founder
+  Role: Co-Founder
   Image: "/uploads/Saul_Headshots2-4_web2.jpg"
-  Question: What do values really mean to people, and how do they show up in their
-    lives and choices?
+  Question: 
   Gif image: 
 - Name: James Lewis
-  Role: Head of Studio
+  Role: Co-Founder and Head of Studio
   Image: "/uploads/James%20Headshot%20New%20sq%20web-2cb2c4.jpg"
-  Question: How can we instil behaviour change techniques into our films?
+  Question: 
 - Name: Liz Cheesbrough
   Role: Business Director
   Image: "/uploads/Liz_TGS-1%20Small.jpg"
-  Question: How can we help young people free themselves of self-consciousness?
+  Question: 
   Gif image: 
 - Name: Sophie Solly
   Role: Strategy & Insight Director
@@ -64,34 +63,39 @@ Team:
   Question: 
   Gif image: 
 - Name: Kymberly Loeb
-  Role: Associate Director
+  Role: Insight Director
   Image: "/uploads/Kym%202%20sq.jpg"
-  Question: How can we work with people's cognitive biasis to impact social change?
+  Question: 
   Gif image: 
-- Name: Daniel Nkwocha
-  Role: Senior Insight and Innovation Consultant
-  Image: "/uploads/daniel.png"
-  Question: How can we uncover what people actually do, vs. what they say they do?
+- Name: Nyomi Gill
+  Role: Operations and Project Manager
+  Image: "/uploads/IMG_2846-b5907c.jpg"
+  Question: 
   Gif image: 
 - Name: Jack Ellingham
   Role: Research Manager
   Image: "/uploads/Jack%20Sq.png"
-  Question: What film best represents your life?
+  Question: 
   Gif image: 
 - Name: Odette Schwartz
   Role: Research Manager
   Image: "/uploads/Odette-2.jpg"
-  Question: How do we get young men to reach out to their friends?
+  Question: 
   Gif image: 
 - Name: Laura Gafforio
-  Role: Researcher
+  Role: Senior Researcher
   Image: "/uploads/Laura%20G%202%20sq-f1b025.jpg"
   Question: 
   Gif image: 
 - Name: Ticiana Riveiro
-  Role: Operations Executive
+  Role: Finance Executive
   Image: "/uploads/Ticiana_head%20&%20shoulders.png"
-  Question: What did you learn from this?
+  Question: 
+  Gif image: 
+- Name: Darius Lacey
+  Role: Researcher
+  Image: "/uploads/1682085511654.jpeg"
+  Question: 
   Gif image: 
 - Name: Julien Nuwase
   Role: Research Intern
