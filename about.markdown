@@ -74,7 +74,7 @@ Team:
   Gif image: 
 - Name: Bessie Pike
   Role: Associate Director
-  Image: 
+  Image: "/uploads/bessie%20old%20photos%20small%20square.jpg"
   Question: 
   Gif image: 
 - Name: Odette Schwartz
