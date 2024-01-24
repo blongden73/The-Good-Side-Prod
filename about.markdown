@@ -62,19 +62,19 @@ Team:
   Image: "/uploads/Sophie%20Solly%202.jpg"
   Question: 
   Gif image: 
+- Name: Ellie Mulcahy
+  Role: Insight Director
+  Image: "/uploads/Ellie%20Square%20small.jpg"
+  Question: 
+  Gif image: 
 - Name: Kymberly Loeb
   Role: Insight Director
   Image: "/uploads/Kym%202%20sq.jpg"
   Question: 
   Gif image: 
-- Name: Nyomi Gill
-  Role: Operations and Project Manager
-  Image: "/uploads/IMG_2846-b5907c.jpg"
-  Question: 
-  Gif image: 
-- Name: Jack Ellingham
-  Role: Research Manager
-  Image: "/uploads/Jack%20Sq.png"
+- Name: Bessie Pike
+  Role: Associate Director
+  Image: 
   Question: 
   Gif image: 
 - Name: Odette Schwartz
@@ -97,9 +97,14 @@ Team:
   Image: "/uploads/1682085511654.jpeg"
   Question: 
   Gif image: 
-- Name: Julien Nuwase
-  Role: Research Intern
-  Image: "/uploads/IMG_1053%20sm2.jpg"
+- Name: Ewan Marsden
+  Role: Researcher
+  Image: 
+  Question: 
+  Gif image: 
+- Name: Maanya Vij
+  Role: Research Assistant
+  Image: "/uploads/Maanya%20Vij%20Photo%20small.jpg"
   Question: 
   Gif image: 
 - Name: Otto
