@@ -78,13 +78,18 @@ Team:
   Question: 
   Gif image: 
 - Name: Odette Schwartz
-  Role: Research Manager
+  Role: Senior Research Manager
   Image: "/uploads/Odette-2.jpg"
   Question: 
   Gif image: 
 - Name: Laura Gafforio
-  Role: Senior Researcher
+  Role: Research Manager and Edit Producer
   Image: "/uploads/Laura%20G%202%20sq-f1b025.jpg"
+  Question: 
+  Gif image: 
+- Name: Ed Moon-Little
+  Role: Research Manager
+  Image: "/uploads/Ed%20Photo%20SM%20SQ.jpg"
   Question: 
   Gif image: 
 - Name: Ticiana Riveiro
@@ -95,6 +100,11 @@ Team:
 - Name: Darius Lacey
   Role: Researcher
   Image: "/uploads/Darius%20Photo%20SM%20SQ.jpg"
+  Question: 
+  Gif image: 
+- Name: Dearbhla Young
+  Role: Team and Office Coordinator
+  Image: 
   Question: 
   Gif image: 
 - Name: Ewan Marsden
@@ -110,11 +120,6 @@ Team:
 - Name: Otto
   Role: Puplick Relations
   Image: "/uploads/Otto.jpg"
-  Question: 
-  Gif image: 
-- Name: Ed Moon-Little
-  Role: Research Manager
-  Image: "/uploads/Ed%20Photo%20SM%20SQ.jpg"
   Question: 
   Gif image: 
 About sentence 1: We help people to understand and impact systems, society and culture.
