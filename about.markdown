@@ -74,7 +74,7 @@ Team:
   Gif image: 
 - Name: Bessie Pike
   Role: Associate Director
-  Image: "/uploads/bessie%20old%20photos%20small%20square.jpg"
+  Image: "/uploads/Bessie%20Photo%20SM%20SQ.jpg"
   Question: 
   Gif image: 
 - Name: Odette Schwartz
@@ -94,12 +94,12 @@ Team:
   Gif image: 
 - Name: Darius Lacey
   Role: Researcher
-  Image: "/uploads/1682085511654.jpeg"
+  Image: "/uploads/Darius%20Photo%20SM%20SQ.jpg"
   Question: 
   Gif image: 
 - Name: Ewan Marsden
   Role: Researcher
-  Image: 
+  Image: "/uploads/Ewan%20Photo%20SM%20SQ.jpg"
   Question: 
   Gif image: 
 - Name: Maanya Vij
@@ -110,6 +110,11 @@ Team:
 - Name: Otto
   Role: Puplick Relations
   Image: "/uploads/Otto.jpg"
+  Question: 
+  Gif image: 
+- Name: Ed Moon-Little
+  Role: Research Manager
+  Image: "/uploads/Ed%20Photo%20SM%20SQ.jpg"
   Question: 
   Gif image: 
 About sentence 1: We help people to understand and impact systems, society and culture.
