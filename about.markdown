@@ -104,7 +104,7 @@ Team:
   Gif image: 
 - Name: Dearbhla Young
   Role: Team and Office Coordinator
-  Image: 
+  Image: "/uploads/Dearbhla%20Sq%20Small.jpg"
   Question: 
   Gif image: 
 - Name: Ewan Marsden
