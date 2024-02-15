@@ -72,6 +72,11 @@ Team:
   Image: "/uploads/Kym%202%20sq.jpg"
   Question: 
   Gif image: 
+- Name: Eva Didier
+  Role: Insight Director
+  Image: "/uploads/IMG_5373-min-fe836a.jpg"
+  Question: 
+  Gif image: 
 - Name: Bessie Pike
   Role: Associate Director
   Image: "/uploads/Bessie%20Photo%20SM%20SQ.jpg"
@@ -104,7 +109,7 @@ Team:
   Gif image: 
 - Name: Dearbhla Young
   Role: Team and Office Coordinator
-  Image: "/uploads/Dearbhla%20Sq%20Small.jpg"
+  Image: "/uploads/IMG_4414%20(1).jpeg"
   Question: 
   Gif image: 
 - Name: Ewan Marsden
