@@ -49,7 +49,7 @@ Team:
   Question: 
   Gif image: 
 - Name: James Lewis
-  Role: Co-Founder and Head of Studio
+  Role: Co-Founder and Creative Director
   Image: "/uploads/James%20Headshot%20New%20sq%20web-2cb2c4.jpg"
   Question: 
 - Name: Liz Cheesbrough
