@@ -87,6 +87,11 @@ Team:
   Image: "/uploads/Odette-2.jpg"
   Question: 
   Gif image: 
+- Name: Krishna Juggapah
+  Role: Senior Project Manager
+  Image: "/uploads/Krishna%20Juggapah%20Image%201%20Small%20Square.jpg"
+  Question: 
+  Gif image: 
 - Name: Laura Gafforio
   Role: Research Manager and Edit Producer
   Image: "/uploads/Laura%20G%202%20sq-f1b025.jpg"
