@@ -132,6 +132,16 @@ Team:
   Image: "/uploads/Otto.jpg"
   Question: 
   Gif image: 
+- Name: Alex Evans
+  Role: Associate Director
+  Image: "/uploads/Alex%20Evans%20Headshot%20Sq%20Sm%20(1).jpg"
+  Question: 
+  Gif image: 
+- Name: Nicholas Robert Cook
+  Role: Associate Director
+  Image: "/uploads/Nicholas%20Robert%20Cook%20Sq%20Sm.jpg"
+  Question: 
+  Gif image: 
 About sentence 1: We help people to understand and impact systems, society and culture.
 About 1 image: "/uploads/door.png"
 About sentence 2: Our team blends anthropological thinking, communications expertise
