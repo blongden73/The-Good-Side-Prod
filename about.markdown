@@ -82,6 +82,16 @@ Team:
   Image: "/uploads/Bessie%20Photo%20SM%20SQ.jpg"
   Question: 
   Gif image: 
+- Name: Alex Evans
+  Role: Associate Director
+  Image: "/uploads/Alex%20Evans%20Headshot%20Sq%20Sm%20(1).jpg"
+  Question: 
+  Gif image: 
+- Name: Nick Cook
+  Role: Associate Director
+  Image: "/uploads/Nicholas%20Robert%20Cook%20Sq%20Sm.jpg"
+  Question: 
+  Gif image: 
 - Name: Odette Schwartz
   Role: Senior Research Manager
   Image: "/uploads/Odette-2.jpg"
@@ -123,18 +133,8 @@ Team:
   Question: 
   Gif image: 
 - Name: Maanya Vij
-  Role: Research Assistant
+  Role: Researcher
   Image: "/uploads/Maanya%20Vij%20Photo%20small.jpg"
-  Question: 
-  Gif image: 
-- Name: Alex Evans
-  Role: Associate Director
-  Image: "/uploads/Alex%20Evans%20Headshot%20Sq%20Sm%20(1).jpg"
-  Question: 
-  Gif image: 
-- Name: Nick Cook
-  Role: Associate Director
-  Image: "/uploads/Nicholas%20Robert%20Cook%20Sq%20Sm.jpg"
   Question: 
   Gif image: 
 - Name: Otto
