@@ -122,11 +122,6 @@ Team:
   Image: "/uploads/Darius%20Photo%20SM%20SQ.jpg"
   Question: 
   Gif image: 
-- Name: Dearbhla Young
-  Role: Team and Office Coordinator
-  Image: "/uploads/IMG_4414%20(1).jpeg"
-  Question: 
-  Gif image: 
 - Name: Ewan Marsden
   Role: Researcher
   Image: "/uploads/Ewan%20Photo%20SM%20SQ.jpg"
@@ -135,6 +130,11 @@ Team:
 - Name: Maanya Vij
   Role: Researcher
   Image: "/uploads/Maanya%20Vij%20Photo%20small.jpg"
+  Question: 
+  Gif image: 
+- Name: Dearbhla Young
+  Role: Team and Office Coordinator
+  Image: "/uploads/IMG_4414%20(1).jpeg"
   Question: 
   Gif image: 
 - Name: Otto
