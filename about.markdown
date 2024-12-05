@@ -112,11 +112,6 @@ Team:
   Image: "/uploads/Ticiana_head%20&%20shoulders.png"
   Question: 
   Gif image: 
-- Name: Darius Lacey
-  Role: Researcher
-  Image: "/uploads/Darius%20Photo%20SM%20SQ.jpg"
-  Question: 
-  Gif image: 
 - Name: Ewan Marsden
   Role: Researcher
   Image: "/uploads/Ewan%20Photo%20SM%20SQ.jpg"
