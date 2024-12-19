@@ -1259,6 +1259,7 @@ small {
   opacity: 0;
   transition: all ease-in-out 0.5s;
   flex-direction: column;
+  display: none !important;
 
   @include mq($from: desktop) {
     display: flex;
