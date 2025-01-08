@@ -72,11 +72,6 @@ Team:
   Image: "/uploads/Kym%202%20sq.jpg"
   Question: 
   Gif image: 
-- Name: Bessie Pike
-  Role: Associate Director
-  Image: "/uploads/Bessie%20Photo%20SM%20SQ.jpg"
-  Question: 
-  Gif image: 
 - Name: Alex Evans
   Role: Associate Director
   Image: "/uploads/Alex%20Evans%20Headshot%20Sq%20Sm%20(1).jpg"
